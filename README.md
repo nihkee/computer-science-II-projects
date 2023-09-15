@@ -15,17 +15,6 @@ Gain proficiency in implementing inheritance and understanding the various types
 Understand and apply the concept of polymorphism in C++, including function overloading and virtual functions, to write flexible and extensible code that can handle different object types efficiently.
 Learn to utilize C++ templates to write generic code that can work with multiple data types, improving code reusability and reducing redundancy.
 Develop skills in writing effective unit tests for C++ programs, using testing frameworks and techniques to ensure code correctness, reliability, and maintainability.
-Student Outcomes
-Level Of Emphasis
-ABET Outcome	Low	Medium	High
-Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.			X
-Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.			X
-Communicate effectively in a variety of professional contexts.	X		
-Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.	X		
-Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.	X		
-Apply computer science theory and software development fundamentals to produce computing-based solutions.		X	
-Text
-Savitch, W. and Mock, K. (2016). Absolute C++, Sixth Edition. Pearson.
 
 Topics
 Object-oriented design concepts
